@@ -1,12 +1,15 @@
 # Tabela-Fipe---API
 
 
+ ![Logo tabela 2024-05-15 092749](https://github.com/Cleiton-Pr/Tabela-Fipe/assets/109486247/389f64cf-888f-4068-b2f8-d93477689408)
+
+
+ 
 O projeto mostra o meu conhecimento na utilização da linguagem Java, Lambdas, Stream, biblioteca jackson (Desserialização de dados Json), listas e coleções.
 Essa aplicação tem o intuito de consultar veículos (Carros, Motos e camainhão) de acoordo com a tabela FIPE.
  A consulta aos valores dos veículos pelo site tem o seguinte fluxo:
 
  
- ![Logo tabela 2024-05-15 092749](https://github.com/Cleiton-Pr/Tabela-Fipe/assets/109486247/389f64cf-888f-4068-b2f8-d93477689408)
 
 
 • Primeiramente é necessário escolher o tipo de veículo: carro, moto ou caminhão.
